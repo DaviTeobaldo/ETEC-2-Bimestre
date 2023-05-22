@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Pacifico&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body{
+    box-sizing: border-box;
+    font-family: 'Oxanium', cursive;
+    background: linear-gradient(to bottom, #6ab7f5, #ffffff);
+    background-size: cover;
+}
+.imagem{
+    width: 90%;
+    height: max-content;
+}.descricao{
+    color: #08295e;
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    
+}.imagem__professor{
+    height: 70vh;
+    width: 70%;
+    padding-top: 50px;
+    margin: 0 auto;
+}.semana__paulo_freire{
+    background-image: url('https://i.pinimg.com/originals/ad/ff/0b/adff0b00e7855118980bb9bac3a37c65.jpg');
+    background-image: no-repeat;
+    background-size: cover;
+    width: 98%;
+    margin: 200px auto;
+    border: 15px dotted rgb(41, 25, 180);
+    padding: 1%;
+}.semana__paulo_freire_imagem{
+    margin: 0 auto;
+    width: 30rem;
+    border: 10px solid #db9f9f;
+    border-radius: 600px;
+}.videos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}.video {
+   margin: 10px;
+}.titulo{
+    font-family: 'Righteous', cursive;
+    color: rgb(96, 0, 185);
+    font-size: 4rem;
+}.card{
+    height: 40rem;
+    max-height: max-content;
+}.fotos__professores{
+    background-color: black;
+}
